@@ -16,7 +16,7 @@ mode        : selfcontained # {standalone, draft}
 library(googleVis)
 library(shiny)
 op <- options(gvis.plot.tag = "chart")
-ARS327_FTA3_2_RG_Faults_140604_RawData <- read.csv("FaultData/data/ARS327_FTA3_2_RG_Faults_140604_RawData.csv")
+ARS327_FTA3_2_RG_Faults_140604_RawData <- read.csv("ShinyApp/data/ARS327_FTA3_2_RG_Faults_140604_RawData.csv")
 faults <- ARS327_FTA3_2_RG_Faults_140604_RawData
 ```
 
