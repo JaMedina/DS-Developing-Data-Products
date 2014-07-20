@@ -1,3 +1,0 @@
-shinyUI(
-  htmlOutput("myPlot"),
-)
