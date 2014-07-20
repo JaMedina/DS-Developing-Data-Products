@@ -1,8 +1,8 @@
 ---
 title       : Vehicle Fault Data
 subtitle    : Daimler
-author      : John Cotter
-job         : Senior Test Engineer
+author      : Jorge Medina
+job         : Software Developer
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
